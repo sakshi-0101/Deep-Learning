@@ -40,8 +40,8 @@ enabling companies to take proactive actions.
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/sakshi-0101/Deep-Learning.git
-cd /Deep-Learning
+git clone https://github.com/sakshi-0101/customer_churn_ann.git
+cd customer_churn_ann
 ```
 
 ### 2. Install dependencies
